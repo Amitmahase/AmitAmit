@@ -13,9 +13,21 @@ public class RestAPITest {
 	
 	@Test
 	
-	public void  deleatTwitter()
+	public void  deleatfb()
 	{
-		System.out.println("deleat Twitter");
+		System.out.println("deleat fbr");
+	}
+	public void  deleatgmail()
+	{
+		System.out.println("deleat gmail");
+	}
+	public void  deleatorkut()
+	{
+		System.out.println("deleat orkit");
+	}
+	public void  deleatani()
+	{
+		System.out.println("deleat animsg");
 	}
 
 }
